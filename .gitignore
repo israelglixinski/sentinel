@@ -1,3 +1,4 @@
 active.bat
 active.sh
 /.venv/
+/ffmpeg/
